@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: url('https://source.unsplash.com/1600x900') top left/cover no-repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,4 +37,7 @@
     transform: rotate(360deg);
   }
 }
-
+/*nav bar */
+.vas{
+  list-style-type: none;
+}
